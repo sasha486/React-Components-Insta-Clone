@@ -33,12 +33,7 @@ const App = () => {
     );
   };
 
-  // setPosts(
-  //   posts.map((post) => {
-  //     return post.id === postId ? { ...(post.likes = post.likes + 1) } : post;
-  //   })
-  // );
-
+ 
   /*
       This function serves the purpose of increasing the number of likes by one, of the post with a given id.
 
